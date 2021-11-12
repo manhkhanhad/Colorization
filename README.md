@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> Reimplementaion of Deoldify base on pixpix colorization
+> Reimplementation of Deoldify base on [pix2pix colorization](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix)
 ### 🏠 [Homepage](https://github.com/manhkhanhad/Colorization)
 ### ✨ Demo: Comming soon
 
